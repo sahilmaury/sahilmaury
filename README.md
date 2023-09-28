@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahilmaury
-- 👀 I’m interested in coding 
+- 👀 I’m interested in coding learnig
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on small project
 - 📫 You can reach out to me through email sahilmaurya5611@gmail.com
